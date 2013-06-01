@@ -1,0 +1,6 @@
+name = Wysiwyg Patch
+description = Patch for WYSIWYG, http://drupal.org/node/1963270#comment-7267744
+package = User interface
+dependencies[] = wysiwyg
+core = 7.x
+files[] = wysiwygpatch.module
